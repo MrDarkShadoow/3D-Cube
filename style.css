@@ -1,0 +1,11 @@
+body {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  min-height: 100vh;
+  max-width: 100%;
+  background-image: url("https://cdn.discordapp.com/attachments/942104998400110645/942106081545572443/cover-image_6.png");
+  background-size: cover;
+  background-attachment: fixed;
+  color: #202020
+}
